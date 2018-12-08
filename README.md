@@ -1,1 +1,1 @@
-jax_performance
+## Diffusion equation in 2D
